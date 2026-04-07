@@ -1,3 +1,3 @@
 # App_CurrencyAPI
 The project objetive is to understand APIs and how they work in C#, also creating an interactive UI with Windows Forms 
-![App screenshot](Services/image.png)
+![App screenshot](image.png)
